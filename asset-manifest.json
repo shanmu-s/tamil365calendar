@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shanmu-s/tamil365calendar/static/css/main.e6c13ad2.css",
+    "main.js": "/shanmu-s/tamil365calendar/static/js/main.4ba97b88.js",
+    "static/js/453.eb5edbdd.chunk.js": "/shanmu-s/tamil365calendar/static/js/453.eb5edbdd.chunk.js",
+    "index.html": "/shanmu-s/tamil365calendar/index.html",
+    "main.e6c13ad2.css.map": "/shanmu-s/tamil365calendar/static/css/main.e6c13ad2.css.map",
+    "main.4ba97b88.js.map": "/shanmu-s/tamil365calendar/static/js/main.4ba97b88.js.map",
+    "453.eb5edbdd.chunk.js.map": "/shanmu-s/tamil365calendar/static/js/453.eb5edbdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4ba97b88.js"
+  ]
+}
